@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bobby Barbour]]></title>
         <description><![CDATA[Bobby Barbour]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bobby-barbour/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 09:35:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 May 2016 14:06:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bobby-barbour/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Under Construction</p>]]></description>
-            <link>undefinedunder-construction/index.html</link>
+            <title><![CDATA[Under Construction]]></title>
+            <description><![CDATA[<article><h1>Under Construction</h1><p>This website is currently under construction and will be launched very soon, in the mean time I invite you to visit my personal website:</p></article>]]></description>
+            <link>https://thegrid.ai/bobby-barbour/under-construction/index.html</link>
             <guid isPermaLink="false">7c49f8ca-40d8-4487-8e3d-2c983b1f027b</guid>
-            <pubDate>Wed, 25 May 2016 09:35:58 GMT</pubDate>
+            <pubDate>Wed, 25 May 2016 14:06:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
