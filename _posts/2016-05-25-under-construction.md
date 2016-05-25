@@ -4,17 +4,25 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Under Construction
-datePublished: '2016-05-25T09:35:58.169Z'
-dateModified: '2016-05-25T09:35:57.788Z'
-title: ''
+description: 'This website is currently under construction and will be launched very soon, in the mean time I invite you to visit my personal website:'
+datePublished: '2016-05-25T14:06:26.579Z'
+dateModified: '2016-05-25T14:06:02.497Z'
+title: Under Construction
 author: []
+sourcePath: _posts/2016-05-25-under-construction.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-25-under-construction.md
 url: under-construction/index.html
 _type: Article
 
 ---
-Under Construction
+# Under Construction
+
+This website is currently under construction and will be launched very soon, in the mean time I invite you to visit my personal website:
+
+www.bobby-barbour.strikingly.com 
+
+or my current professional website:
+
+http://www.
