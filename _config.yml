@@ -1,0 +1,28 @@
+name: Bobby Barbour
+favicon: null
+layout_spectrum: 0.5844076559878886
+typography_spectrum: 0.7127893678843975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6529333335347474
+  lightness: 0.4083163409959525
+  saturation: 0.007783796638250351
+  rhythmicContrast: 0.4214892715681344
+purpose: []
