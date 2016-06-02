@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'This website is currently under construction and will be launched very soon, in the mean time I invite you to visit my personal website:'
-datePublished: '2016-06-02T10:06:10.551Z'
-dateModified: '2016-05-25T14:06:31.586Z'
+datePublished: '2016-06-02T10:34:52.047Z'
+dateModified: '2016-06-02T10:06:17.107Z'
 title: Under Construction
 author: []
 sourcePath: _posts/2016-05-25-under-construction.md
